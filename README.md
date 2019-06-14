@@ -1,3 +1,3 @@
-# Python Introduction
+ # Python Introduction for me
 ## Authors
-Michaela 
+Michaela Fehringer 
